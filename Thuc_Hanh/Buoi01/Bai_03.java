@@ -17,4 +17,4 @@ public class Bai_03 {
 		System.out.print("Tong = "+ tong +", MAX = " + max);
 	}
 }
-Anh la Nguyen Huu Nhan
+
